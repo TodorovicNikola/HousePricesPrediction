@@ -1,0 +1,88 @@
+C:/Users/Todorovic/Desktop/SZIAP/House Prices Advanced Regression Techniques/CSV Files/Start point
+Vreme:  2017-04-13 10-39-32
+MSE with alpha = 0 is 0.164591350236201
+MSE with alpha = 1 is 0.153067285823909
+MSE with alpha = 0.58 is 0.153925669706005
+ 
+###############################################################
+ 
+C:/Users/Todorovic/Desktop/SZIAP/House Prices Advanced Regression Techniques/CSV Files/Attrs with bad dist removed
+Vreme:  2017-04-13 10-39-46
+MSE with alpha = 0 is 0.171123686895915
+MSE with alpha = 1 is 0.159568184974671
+MSE with alpha = 0.58 is 0.159732148096162
+ 
+###############################################################
+ 
+C:/Users/Todorovic/Desktop/SZIAP/House Prices Advanced Regression Techniques/CSV Files/AWBD and outliers removed
+Vreme:  2017-04-13 10-40-01
+MSE with alpha = 0 is 0.171123686895915
+MSE with alpha = 1 is 0.159568184974671
+MSE with alpha = 0.58 is 0.159732148096162
+ 
+###############################################################
+ 
+C:/Users/Todorovic/Desktop/SZIAP/House Prices Advanced Regression Techniques/CSV Files/AWBD and outliers removed, remod attr added
+Vreme:  2017-04-13 10-40-13
+MSE with alpha = 0 is 0.170691784627706
+MSE with alpha = 1 is 0.160290427628218
+MSE with alpha = 0.58 is 0.160896602121711
+ 
+###############################################################
+ 
+C:/Users/Todorovic/Desktop/SZIAP/House Prices Advanced Regression Techniques/CSV Files/AWBD, extreme outlier removing,  remod added
+Vreme:  2017-04-13 10-40-42
+MSE with alpha = 0 is 0.160414767275082
+MSE with alpha = 1 is 0.165800959966986
+MSE with alpha = 0.58 is 0.165770810993424
+ 
+###############################################################
+ 
+C:/Users/Todorovic/Desktop/SZIAP/House Prices Advanced Regression Techniques/CSV Files/Outliers removed, remod attr added
+Vreme:  2017-04-13 10-41-04
+MSE with alpha = 0 is 0.163534837598009
+MSE with alpha = 1 is 0.153353904401026
+MSE with alpha = 0.58 is 0.154426320431867
+ 
+###############################################################
+ 
+C:/Users/Todorovic/Desktop/SZIAP/House Prices Advanced Regression Techniques/CSV Files/Clusterized/Attrs with bad dist removed
+Vreme:  2017-04-13 10-41-37
+MSE with alpha = 0 is 0.174679689520569
+MSE with alpha = 1 is 0.159567373952131
+MSE with alpha = 0.58 is 0.159733378028001
+ 
+###############################################################
+ 
+C:/Users/Todorovic/Desktop/SZIAP/House Prices Advanced Regression Techniques/CSV Files/Clusterized/AWBD and outliers removed
+Vreme:  2017-04-13 10-42-03
+MSE with alpha = 0 is 0.174679689520569
+MSE with alpha = 1 is 0.159567373952131
+MSE with alpha = 0.58 is 0.159733378028001
+ 
+###############################################################
+ 
+C:/Users/Todorovic/Desktop/SZIAP/House Prices Advanced Regression Techniques/CSV Files/Clusterized/AWBD and outliers removed, remod attr added
+Vreme:  2017-04-13 10-42-16
+MSE with alpha = 0 is 0.17569989338698
+MSE with alpha = 1 is 0.160317103874687
+MSE with alpha = 0.58 is 0.160897302177175
+ 
+###############################################################
+ 
+C:/Users/Todorovic/Desktop/SZIAP/House Prices Advanced Regression Techniques/CSV Files/Clusterized/AWBD, extreme outlier removing,  remod added
+Vreme:  2017-04-13 10-43-36
+MSE with alpha = 0 is 0.160233852920478
+MSE with alpha = 1 is 0.165800959966986
+MSE with alpha = 0.58 is 0.165768250515613
+ 
+###############################################################
+ 
+C:/Users/Todorovic/Desktop/SZIAP/House Prices Advanced Regression Techniques/CSV Files/Clusterized/Outliers removed, remod attr added
+Vreme:  2017-04-13 10-44-07
+MSE with alpha = 0 is 0.167510752820216
+MSE with alpha = 1 is 0.153353904401026
+MSE with alpha = 0.58 is 0.154426320431867
+ 
+###############################################################
+ 

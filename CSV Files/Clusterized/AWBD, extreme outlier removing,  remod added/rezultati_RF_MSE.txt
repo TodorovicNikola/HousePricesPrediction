@@ -1,0 +1,12 @@
+C:/Users/Eugene/Desktop/SIAP Veliki komp/House Prices Prediction/CSV Files/Clusterized/AWBD, extreme outlier removing,  remod added
+Number of Trees =  125  , Number of Variables =  0 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  0 (NOTE: if ommited or zero -> default)
+MSE is 0.160925322835468
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/House Prices Prediction/CSV Files/Clusterized/AWBD, extreme outlier removing,  remod added
+Number of Trees =  125  , Number of Variables =  0 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  0 (NOTE: if ommited or zero -> default)
+MSE is 0.160925322835468
+ 
+#########################################################
+ 

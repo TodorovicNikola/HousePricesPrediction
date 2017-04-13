@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "require(randomForest)\nrequire(rstudioapi)\n\nsetwd(dirname(rstudioapi::getActiveDocumentContext()$path))\n\n#setwd(\"../CSV Files/Start point\")\n#setwd(\"../CSV Files/Attrs with bad dist removed\")\n#setwd(\"../CSV Files/AWBD and outliers removed\")\n#setwd(\"../CSV Files/AWBD and outliers removed, remod attr added\")\nsetwd(\"../CSV Files/AWBD, extreme outlier removing,  remod added\")\n#setwd(\"../CSV Files/Outliers removed, remod attr added\")\n\n#setwd(\"../CSV Files/Clusterized/Attrs with bad dist removed\")\n#setwd(\"../CSV Files/Clusterized/AWBD and outliers removed\")\n#setwd(\"../CSV Files/Clusterized/AWBD and outliers removed, remod attr added\")\n#setwd(\"../CSV Files/Clusterized/AWBD, extreme outlier removing,  remod added\")\n#setwd(\"../CSV Files/Clusterized/Outliers removed, remod attr added\")\n\n\n\n# 0 ZNACI DA SE RADI DEFAULT\nnumberOfTrees <- 120\nnumberOfVars <- 90\nmaxTermNodes <- 0\nminSizeOfTermNodes <- 0 #controlles pruning\n#xtest, ytest\n\n\n\n\n\ntrainData <- read.csv(file=\"train.csv\", header=TRUE, sep=\",\")\ntestData <- read.csv(file=\"test.csv\", header=TRUE, sep=\",\")\ntestData <- testData[, !(names(testData) %in% c(\"Id\"))]\nvarNames <- names(trainData)\nvarNames <- varNames[!varNames %in% c(\"SalePrice\", \"Id\")]\n\nformulaNames <- paste(varNames, collapse = \"+\")\n\nrf.form <- as.formula(paste(\"SalePrice\", formulaNames, sep = \" ~ \"))\n\nset.seed(58)\n\nif(numberOfTrees != 0 && numberOfVars != 0){\n  res.rf <- randomForest(rf.form, trainData, importance = TRUE, ntree = numberOfTrees, mtry = numberOfVars)#, nodesize = minSizeOfTermNodes)\n}else if(numberOfTrees != 0){\n  res.rf <- randomForest(rf.form, trainData, importance = TRUE, ntree = numberOfTrees)\n}else if(numberOfVars != 0){\n  res.rf <- randomForest(rf.form, trainData, importance = TRUE, mtry = numberOfVars)\n}else{\n  res.rf <- randomForest(rf.form, trainData, importance = TRUE)\n}\nplot(res.rf)\n\nvarImpPlot(res.rf,\n           sort = T,\n           main=\"Variable Importance\",\n           n.var=15)\n\ntestData$predicted.response <- predict(res.rf , testData)\n\nrez.rmse <- paste(\"MSE is\",mean((testData$predicted.response - testData$SalePrice)^2), sep=\" \")\n\n\n#RADI ISPISA\nworkingDirectory <- getwd()\n\n#RADI PISANjA U ODGOVARAJUCI FAJL\nif (grepl(\"Clusterized\", getwd())){\n  setwd(\"../../../Log Files/Random Forest\")\n}else{\n  setwd(\"../../Log Files/Random Forest\")\n}\n\nblockSeparator <- \"#########################################################\"\nparameters <- paste(\"Number of Trees = \", numberOfTrees, \" ,\", \"Number of Variables = \", numberOfVars, \", \", \"Max number of nodes = \", maxTermNodes, \", \", \"Min size of terminal nodes = \", minSizeOfTermNodes, \"(NOTE: if ommited or zero -> default)\")\nline <- paste(workingDirectory, parameters, rez.rmse, \" \", blockSeparator, \" \", sep = \"\\n\")\nwrite(line,file=\"rezultati_RF_MSE.txt\",append=TRUE)\nprint(rez.rmse)",
+    "created" : 1492067848495.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2557969256",
+    "id" : "75733F9",
+    "lastKnownWriteTime" : 1492070966,
+    "last_content_update" : 1492070966750,
+    "path" : "C:/Users/Todorovic/Desktop/SZIAP/House Prices Advanced Regression Techniques/R Project/Random_Forest.R",
+    "project_path" : "Random_Forest.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

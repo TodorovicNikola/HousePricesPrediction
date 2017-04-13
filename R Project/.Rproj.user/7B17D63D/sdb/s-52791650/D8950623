@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "#BASIC PACKAGES\ninstall.packages(c(\"rstudioapi\", \"glmnet\", \"randomForest\"), dependencies=TRUE)\n\n#FOR TREE VISUALIZATION\n#POGLEDAJ - http://stats.stackexchange.com/questions/41443/how-to-actually-plot-a-sample-tree-from-randomforestgettree\n# options(repos='http://cran.rstudio.org')\n# have.packages <- installed.packages()\n# cran.packages <- c('devtools','plotrix','randomForest','tree')\n# to.install <- setdiff(cran.packages, have.packages[,1])\n# if(length(to.install)>0) install.packages(to.install)\n# \n# library(devtools)\n# if(!('reprtree' %in% installed.packages())){\n#   install_github('araastat/reprtree')\n# }\n# for(p in c(cran.packages, 'reprtree')) eval(substitute(library(pkg), list(pkg=p)))",
+    "created" : 1492068366239.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1465909393",
+    "id" : "D8950623",
+    "lastKnownWriteTime" : 1492069602,
+    "last_content_update" : 1492069602989,
+    "path" : "C:/Users/Todorovic/Desktop/SZIAP/House Prices Advanced Regression Techniques/R Project Files/Install_Packages.R",
+    "project_path" : "Install_Packages.R",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
