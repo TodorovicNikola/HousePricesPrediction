@@ -1,0 +1,7 @@
+C:/Users/Todorovic/Desktop/SZIAP/HousePricesPrediction/CSV Files/Clusters fully separated/AWBD removed
+Number of Trees =  120  , Number of Variables =  90 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  0 (NOTE: if ommited or zero -> default)
+MSE is on cluster0 is  0.126719529475956
+MSE is on cluster1 is  0.067031258553251
+ 
+#########################################################
+ 

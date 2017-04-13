@@ -1,0 +1,274 @@
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/polazna tacka
+RMSE is 0.374652033615041
+ 
+###############################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/izbacena obelezja sa losom raspodelom
+RMSE is 0.379676504999382
+ 
+###############################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/izuzeta obelezja i outlieri
+RMSE is 0.377058747985972
+ 
+###############################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/izuzeta obelezja, outlieri i dodat remod
+RMSE is 0.372074089210322
+ 
+###############################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/klasterizovani/izbacena obelezja sa losom raspodelom
+RMSE is 0.679092186668939
+ 
+###############################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/klasterizovani/izuzeta obelezja i outlieri
+RMSE is 0.687293058643538
+ 
+###############################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/klasterizovani/izuzeta obelezja, outlieri i dodat remod
+RMSE is 0.674365786298213
+ 
+###############################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/polazna tacka
+RMSE is 0.37118263002815
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/polazna tacka
+Number of Trees =  85  , Number of Variables =  58 (NOTE: if ommited or zero -> default)
+RMSE is 0.384794404454884
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/polazna tacka
+Number of Trees =  100  , Number of Variables =  58 (NOTE: if ommited or zero -> default)
+RMSE is 0.376586759838155
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/polazna tacka
+Number of Trees =  100  , Number of Variables =  85 (NOTE: if ommited or zero -> default)
+RMSE is 0.36980397103576
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/polazna tacka
+Number of Trees =  100  , Number of Variables =  100 (NOTE: if ommited or zero -> default)
+RMSE is 0.367465890977063
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/polazna tacka
+Number of Trees =  100  , Number of Variables =  120 (NOTE: if ommited or zero -> default)
+RMSE is 0.376216065020892
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/polazna tacka
+Number of Trees =  0  , Number of Variables =  100 (NOTE: if ommited or zero -> default)
+RMSE is 0.371013016314421
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/polazna tacka
+Number of Trees =  100  , Number of Variables =  100 (NOTE: if ommited or zero -> default)
+RMSE is 0.367465890977063
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/polazna tacka
+Number of Trees =  100  , Number of Variables =  100 ,  Max number of nodes =  1000 (NOTE: if ommited or zero -> default)
+RMSE is 0.367465890977063
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/polazna tacka
+Number of Trees =  120  , Number of Variables =  100 ,  Max number of nodes =  0 (NOTE: if ommited or zero -> default)
+RMSE is 0.364521386306973
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/polazna tacka
+Number of Trees =  150  , Number of Variables =  100 ,  Max number of nodes =  0 (NOTE: if ommited or zero -> default)
+RMSE is 0.364847102563445
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/polazna tacka
+Number of Trees =  120  , Number of Variables =  110 ,  Max number of nodes =  0 (NOTE: if ommited or zero -> default)
+RMSE is 0.368231474643074
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/polazna tacka
+Number of Trees =  120  , Number of Variables =  90 ,  Max number of nodes =  0 (NOTE: if ommited or zero -> default)
+RMSE is 0.364947950379335
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/polazna tacka
+Number of Trees =  120  , Number of Variables =  90 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  10 (NOTE: if ommited or zero -> default)
+RMSE is 0.372589444374186
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/polazna tacka
+Number of Trees =  120  , Number of Variables =  90 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  3 (NOTE: if ommited or zero -> default)
+RMSE is 0.374769381074814
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/polazna tacka
+Number of Trees =  120  , Number of Variables =  90 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  8 (NOTE: if ommited or zero -> default)
+RMSE is 0.368087272947
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/polazna tacka
+Number of Trees =  120  , Number of Variables =  90 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  6 (NOTE: if ommited or zero -> default)
+RMSE is 0.383333748745597
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/polazna tacka
+Number of Trees =  120  , Number of Variables =  90 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  7 (NOTE: if ommited or zero -> default)
+RMSE is 0.379050029615819
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/polazna tacka
+Number of Trees =  120  , Number of Variables =  90 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  0 (NOTE: if ommited or zero -> default)
+RMSE is 0.364947950379335
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/polazna tacka
+Number of Trees =  120  , Number of Variables =  0 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  0 (NOTE: if ommited or zero -> default)
+RMSE is 0.370227403079604
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/izuzeta obelezja, outlieri i dodat remod
+Number of Trees =  120  , Number of Variables =  90 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  0 (NOTE: if ommited or zero -> default)
+RMSE is 0.363310010040931
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/izuzeta obelezja, outlieri i dodat remod
+Number of Trees =  120  , Number of Variables =  100 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  0 (NOTE: if ommited or zero -> default)
+RMSE is 0.381541357306125
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/izuzeta obelezja, outlieri i dodat remod
+Number of Trees =  120  , Number of Variables =  80 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  0 (NOTE: if ommited or zero -> default)
+RMSE is 0.377339520468063
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/izuzeta obelezja, outlieri i dodat remod
+Number of Trees =  120  , Number of Variables =  85 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  0 (NOTE: if ommited or zero -> default)
+RMSE is 0.366062104922712
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/izuzeta obelezja, outlieri i dodat remod
+Number of Trees =  120  , Number of Variables =  95 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  0 (NOTE: if ommited or zero -> default)
+RMSE is 0.376006822666098
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/izuzeta obelezja, outlieri i dodat remod
+Number of Trees =  120  , Number of Variables =  91 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  0 (NOTE: if ommited or zero -> default)
+RMSE is 0.382481072222064
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/izuzeta obelezja, outlieri i dodat remod
+Number of Trees =  120  , Number of Variables =  90 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  0 (NOTE: if ommited or zero -> default)
+RMSE is 0.363310010040931
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/izuzeta obelezja i outlieri
+Number of Trees =  120  , Number of Variables =  90 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  0 (NOTE: if ommited or zero -> default)
+RMSE is 0.381419402742609
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/izuzeta obelezja, outlieri i dodat remod
+Number of Trees =  120  , Number of Variables =  90 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  20 (NOTE: if ommited or zero -> default)
+RMSE is 0.395052110372426
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/izuzeta obelezja, outlieri i dodat remod
+Number of Trees =  120  , Number of Variables =  90 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  10 (NOTE: if ommited or zero -> default)
+RMSE is 0.382883971030045
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/izuzeta obelezja, outlieri i dodat remod
+Number of Trees =  120  , Number of Variables =  90 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  0 (NOTE: if ommited or zero -> default)
+RMSE is 0.363310010040931
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/izuzeta obelezja, outlieri i dodat remod
+Number of Trees =  120  , Number of Variables =  90 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  0 (NOTE: if ommited or zero -> default)
+RMSE is 0.363310010040931
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/izuzeta obelezja, outlieri i dodat remod
+Number of Trees =  120  , Number of Variables =  90 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  0 (NOTE: if ommited or zero -> default)
+RMSE is 0.363310010040931
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/izuzeta obelezja, outlieri i dodat remod
+Number of Trees =  130  , Number of Variables =  90 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  0 (NOTE: if ommited or zero -> default)
+RMSE is 0.365501755111704
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/izuzeta obelezja, outlieri i dodat remod
+Number of Trees =  125  , Number of Variables =  90 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  0 (NOTE: if ommited or zero -> default)
+RMSE is 0.363202152349187
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/izuzeta obelezja, outlieri i dodat remod
+Number of Trees =  128  , Number of Variables =  90 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  0 (NOTE: if ommited or zero -> default)
+RMSE is 0.364298542695775
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/izuzeta obelezja, outlieri i dodat remod
+Number of Trees =  126  , Number of Variables =  90 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  0 (NOTE: if ommited or zero -> default)
+RMSE is 0.364377367127232
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/izuzeta obelezja, outlieri i dodat remod
+Number of Trees =  124  , Number of Variables =  90 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  0 (NOTE: if ommited or zero -> default)
+RMSE is 0.363471470465816
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/izuzeta obelezja, outlieri i dodat remod
+Number of Trees =  122  , Number of Variables =  90 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  0 (NOTE: if ommited or zero -> default)
+RMSE is 0.363371251984367
+ 
+#########################################################
+ 
+C:/Users/Eugene/Desktop/SIAP Veliki komp/csvovi za testiranje/izuzeta obelezja, outlieri i dodat remod
+Number of Trees =  125  , Number of Variables =  100 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  0 (NOTE: if ommited or zero -> default)
+RMSE is 0.381659470699106
+ 
+#########################################################
+ 

@@ -34,12 +34,6 @@ MSE is 0.162188957773735
  
 #########################################################
  
-C:/Users/Todorovic/Desktop/SZIAP/House Prices Advanced Regression Techniques/CSV Files/AWBD and outliers removed, remod attr added
-Number of Trees =  120  , Number of Variables =  90 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  0 (NOTE: if ommited or zero -> default)
-MSE is 0.131994163395941
- 
-#########################################################
- 
 C:/Users/Todorovic/Desktop/SZIAP/House Prices Advanced Regression Techniques/CSV Files/Clusterized/Attrs with bad dist removed
 Number of Trees =  120  , Number of Variables =  90 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  0 (NOTE: if ommited or zero -> default)
 MSE is 0.469440842810502
