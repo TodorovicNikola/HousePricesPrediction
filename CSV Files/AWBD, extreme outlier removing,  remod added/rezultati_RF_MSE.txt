@@ -1,6 +1,0 @@
-C:/Users/Todorovic/Desktop/SZIAP/House Prices Advanced Regression Techniques/CSV Files/AWBD, extreme outlier removing,  remod added
-Number of Trees =  125  , Number of Variables =  0 ,  Max number of nodes =  0 ,  Min size of terminal nodes =  0 (NOTE: if ommited or zero -> default)
-MSE is NaN
- 
-#########################################################
- 
